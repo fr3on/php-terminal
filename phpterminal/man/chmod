@@ -1,0 +1,14 @@
+NAME
+       chmod - change file mode bits
+
+SYNOPSIS
+       chmod [OPTION]... OCTAL-MODE FILE...
+
+OPTIONS
+       Change the mode of each FILE to OCTAL-MODE.
+
+       -v
+              output a diagnostic for every file processed
+
+       -R
+              change files and directories recursively

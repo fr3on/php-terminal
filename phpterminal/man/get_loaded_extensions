@@ -1,0 +1,9 @@
+NAME
+       get_loaded_extensions - returns loaded php modules
+
+SYNOPSIS
+       get_loaded_extensions
+
+DESCRIPTION
+       Returns the names of all the modules compiled and loaded in the PHP interpreter. 
+

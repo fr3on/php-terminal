@@ -1,0 +1,9 @@
+NAME
+       upload - uploads file in current directory
+
+SYNOPSIS
+       upload
+
+DESCRIPTION
+       Upload any file that meets upload limits criteria to current working directory.
+

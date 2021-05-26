@@ -1,0 +1,9 @@
+NAME
+       ini_get - get php ini option
+
+SYNOPSIS
+       ini_get OPTION
+
+DESCRIPTION
+       Gets the value of a PHP configuration OPTION.
+

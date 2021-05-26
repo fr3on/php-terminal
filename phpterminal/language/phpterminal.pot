@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPTerminal\n"
+"POT-Creation-Date: 2021-04-20 17:22+0200\n"
+"PO-Revision-Date: 2021-04-20 17:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;__\n"
+"X-Poedit-SearchPath-0: i18n.php\n"
+
+#: i18n.php:5
+msgid "Error"
+msgstr ""
+
+#: i18n.php:10
+msgid "Error: command not found"
+msgstr ""
+
+#: i18n.php:15
+msgid "Error: no response from the server"
+msgstr ""
+
+#: i18n.php:20
+msgid "Error: failed to parse JSON response"
+msgstr ""
+
+#: i18n.php:25
+msgid "Cannot initialize filesystem"
+msgstr ""
+
+#: i18n.php:30
+msgid "Error: authentication failure"
+msgstr ""
+
+#: i18n.php:35
+msgid "Error: failed to initialize job"
+msgstr ""
+
+#: i18n.php:40
+msgid "Saving..."
+msgstr ""
+
+#: i18n.php:45
+msgid "Uploading..."
+msgstr ""
+
+#: i18n.php:50
+msgid "Processing download..."
+msgstr ""
+
+#: i18n.php:55
+msgid "Error: wp-content/plugins/wpterminal/jobs directory is not writable"
+msgstr ""
+
+#: i18n.php:60
+msgid "Error: permission denied"
+msgstr ""
+
+#: i18n.php:65
+msgid "Error: no such file or directory"
+msgstr ""
+
+#: i18n.php:70
+msgid "Error: directory exists"
+msgstr ""
+
+#: i18n.php:75
+msgid "Error: is a directory"
+msgstr ""
+
+#: i18n.php:80
+msgid "Error: target is a directory"
+msgstr ""
+
+#: i18n.php:85
+msgid "Error: directory not empty"
+msgstr ""
+
+#: i18n.php:90
+msgid "Error: target is not a directory"
+msgstr ""
+
+#: i18n.php:95
+msgid "Error: -r not specified; omitting directory"
+msgstr ""
+
+#: i18n.php:100
+msgid "created directory"
+msgstr ""
+
+#: i18n.php:105
+msgid "Error: file exists"
+msgstr ""
+
+#: i18n.php:110
+msgid "Error: is a file"
+msgstr ""
+
+#: i18n.php:115
+msgid "Error: failed to create zip archive"
+msgstr ""
+
+#: i18n.php:120
+msgid "Error: failed to open zip archive"
+msgstr ""
+
+#: i18n.php:125
+msgid "Error: zip extensions not available"
+msgstr ""
+
+#: i18n.php:130
+msgid "Error: file too large"
+msgstr ""
+
+#: i18n.php:135
+msgid "Error: file upload was not completed"
+msgstr ""
+
+#: i18n.php:140
+msgid "Error: empty file uploaded"
+msgstr ""
+
+#: i18n.php:145
+msgid "Error: internal error"
+msgstr ""
+
+#: i18n.php:150
+msgid "Error: failed to move uploaded file"
+msgstr ""
+
+#: i18n.php:155
+msgid "HTTP Error: bad request"
+msgstr ""
+
+#: i18n.php:160
+msgid "HTTP Error: unauthorized"
+msgstr ""
+
+#: i18n.php:165
+msgid "HTTP Error: forbidden"
+msgstr ""
+
+#: i18n.php:170
+msgid "HTTP Error: not found"
+msgstr ""
+
+#: i18n.php:175
+msgid "HTTP Error: method not allowed"
+msgstr ""
+
+#: i18n.php:180
+msgid "HTTP Error: not acceptable"
+msgstr ""
+
+#: i18n.php:185
+msgid "HTTP Error: request timeout"
+msgstr ""
+
+#: i18n.php:190
+msgid "HTTP Error: internal server error"
+msgstr ""
+
+#: i18n.php:195
+msgid "HTTP Error: not implemented"
+msgstr ""
+
+#: i18n.php:200
+msgid "HTTP Error: bad gateway"
+msgstr ""
+
+#: i18n.php:205
+msgid "HTTP Error: service unavailable"
+msgstr ""
+
+#: i18n.php:210
+msgid "HTTP Error: gateway timeout"
+msgstr ""
+
+#: i18n.php:215
+msgid "HTTP Error: version not supported"
+msgstr ""
+
+#: i18n.php:220
+msgid "HTTP Error: network authentication required"
+msgstr ""
+
+#: i18n.php:225
+msgid "row affected"
+msgstr ""
+
+#: i18n.php:225
+msgid "rows affected"
+msgstr ""
+
+#: i18n.php:230
+msgid "query is empty"
+msgstr ""
+
+#: i18n.php:235
+msgid "removed"
+msgstr ""
+
+#: i18n.php:240
+msgid "changed mode to "
+msgstr ""
+
+#: i18n.php:245
+msgid "renamed "
+msgstr ""
+
+#: i18n.php:250
+msgid "No manual entry for "
+msgstr ""

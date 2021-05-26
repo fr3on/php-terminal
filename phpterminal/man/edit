@@ -1,0 +1,8 @@
+NAME
+       edit - internal file editor
+
+SYNOPSIS
+       edit FILE
+
+DESCRIPTION
+       Edit FILE in internal file editor. CTRL+2 saves and quits the editor. CTRL+0 will quit without saving changes.

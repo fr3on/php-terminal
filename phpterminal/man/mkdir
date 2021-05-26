@@ -1,0 +1,14 @@
+NAME
+       mkdir - make directories
+
+SYNOPSIS
+       mkdir [OPTION]... DIRECTORY...
+
+DESCRIPTION
+       Create the DIRECTORY(ies), if they do not already exist.
+
+       -p
+              no error if existing, make parent directories as needed
+
+       -v
+              print a message for each created directory

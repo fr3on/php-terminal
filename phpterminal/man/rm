@@ -1,0 +1,20 @@
+NAME
+       rm - remove files or directories
+
+SYNOPSIS
+       rm [OPTION]... FILE...
+
+DESCRIPTION
+       rm removes each specified file.  By default, it does not remove directories.
+
+OPTIONS
+       Remove (unlink) the FILE(s).
+
+       -r, -R
+              remove directories and their contents recursively
+
+       -d
+              remove empty directories
+
+       -v
+              explain what is being done

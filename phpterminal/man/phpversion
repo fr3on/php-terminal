@@ -1,0 +1,9 @@
+NAME
+       phpversion - returns the current php version
+
+SYNOPSIS
+       phpversion
+
+DESCRIPTION
+        Returns a string containing the version of the currently running PHP parser.
+

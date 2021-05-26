@@ -1,0 +1,8 @@
+NAME
+       cd — change the working directory
+
+SYNOPSIS
+       cd DIRECTORY
+
+DESCRIPTION
+       Change the current directory to DIRECTORY

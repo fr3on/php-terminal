@@ -1,0 +1,10 @@
+NAME
+       sql - executes sql query
+
+SYNOPSIS
+       sql "QUERY"
+
+OPTIONS
+       Execute sql QUERY string. QUERY must be wrapped in double-quotes. If executed query is select then results are returned, else the number of rows affected. 
+
+

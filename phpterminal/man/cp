@@ -1,0 +1,16 @@
+NAME
+       cp - copy files and directories
+
+SYNOPSIS
+       cp [OPTION]... SOURCE DEST
+       cp [OPTION]... SOURCE... DIRECTORY
+       cp [OPTION]... DIRECTORY SOURCE...
+
+DESCRIPTION
+       Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+
+       -r, -R
+              copy directories recursively
+
+       -v
+              explain what is being done

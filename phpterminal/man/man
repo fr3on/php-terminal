@@ -1,0 +1,9 @@
+NAME
+       man - an interface to the reference manuals
+
+SYNOPSIS
+       man COMMAND
+
+DESCRIPTION
+       man is the system for refrence manuals and help information regarding available commands.
+

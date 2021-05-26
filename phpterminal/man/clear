@@ -1,0 +1,8 @@
+NAME
+       clear - clear the screen
+
+SYNOPSIS
+       clear
+
+DESCRIPTION
+       clear clears your screen if this is possible.

@@ -1,0 +1,15 @@
+NAME
+       rename - rename file
+
+SYNOPSIS
+       rename [OPTION]... FILE FILENAME
+
+DESCRIPTION
+       rename will rename the specified FILE with FILENAME. Note that FILENAME is NOT a destination path, just a file name relative to FILE.
+
+OPTIONS
+       -v
+              Show which files were renamed, if any.
+
+       -o
+              Do not overwrite existing files.

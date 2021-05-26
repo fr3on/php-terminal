@@ -1,0 +1,9 @@
+NAME
+       unzip - extract compressed files in a ZIP archive
+
+SYNOPSIS
+       unzip ZIPFILE
+
+DESCRIPTION
+       unzip will extract files from a ZIP archive.  The default behavior (with no options) is to extract into the current directory (and
+       subdirectories below it) all files from the specified ZIP archive.

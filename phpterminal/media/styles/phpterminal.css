@@ -1,0 +1,36 @@
+#phpterminal, #phpterminal-edit { display: block; background: #000; color: #fff; position: fixed; top: 32px; left: 160px; right: 0; bottom: 0; z-index: 100; overflow-x: hidden; overflow-y: scroll; white-space: pre; }
+@media only screen and (max-width: 960px) { #phpterminal, #phpterminal-edit { left: 36px; } }
+@media screen and (max-width: 782px) { #phpterminal, #phpterminal-edit { left: 0; top: 46px; } }
+#phpterminal-edit { z-index: 101; }
+
+#phpterminal-edit { top: 56px; bottom: 24px; display: none; }
+@media screen and (max-width: 782px) { #phpterminal, #phpterminal-edit { top: 70px; } }
+
+.phpterminal { padding: 4px 8px; display: block; letter-spacing: 0 !important; }
+.phpterminal, #phpterminal-edit, #phpterminal-edit *, .caret-output > span:before, .caret.caret-line-numbers + .caret-output > span:before { outline: none !important; -webkit-box-shadow: none !important; box-shadow: none !important; font-family: jetbrains_monoregular, monovoid, monospace, monospace !important; font-size: 16px !important; line-height: 1.4 !important; white-space: pre !important; color: #fff;  }
+.caret-output > span:before { color: #fff !important; }
+.phpterminal * { letter-spacing: 0 !important; white-space: pre !important; font-family: inherit; font-size: inherit; line-height: inherit;  background: transparent !important; border: none !important; outline: none !important; color: #fff; padding: 0 !important; margin: 0 !important; }
+.phpterminal > p { letter-spacing: 0 !important; font-family: inherit; font-size: inherit; line-height: inherit; white-space: pre !important; }
+.phpterminal textarea, .phpterminal textarea:active, .phpterminal textarea:focus { display: block !important; width: 100% !important; resize: none; outline: none !important; overflow-y: hidden !important; -webkit-box-shadow: none !important; box-shadow: none !important; }
+.phpterminal textarea { /*-webkit-user-select: none; -webkit-touch-callout: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none;*/ }
+
+.caret-bar-top, .caret-bar-bottom { position: fixed; top: 32px !important; left: 160px !important; right: 0 !important; bottom: 0 !important; z-index: 101; }
+@media only screen and (max-width: 960px) { .caret-bar-top, .caret-bar-bottom { left: 36px !important; } }
+@media screen and (max-width: 782px) { .caret-bar-top, .caret-bar-bottom { left: 0 !important; top: 46px !important; } }
+.caret-bar-bottom { top: auto !important; bottom: 0 !important; }
+
+#phpterminal-upload { position: absolute; left: -666px; top: -666px; }
+
+/*.phpterminal .phpterm-loading-1:after { content: ' [---]'; font-weight: bold; }
+.phpterminal .phpterm-loading-2:after { content: ' [=--]'; font-weight: bold; }
+.phpterminal .phpterm-loading-3:after { content: ' [-=-]'; font-weight: bold; }
+.phpterminal .phpterm-loading-4:after { content: ' [--=]'; font-weight: bold; }*/
+
+.phpterminal .phpterm-loading-1:after { content: ' [|]'; font-weight: bold; }
+.phpterminal .phpterm-loading-2:after { content: ' [/]'; font-weight: bold; }
+.phpterminal .phpterm-loading-3:after { content: ' [-]'; font-weight: bold; }
+.phpterminal .phpterm-loading-4:after { content: ' [\\]'; font-weight: bold; }
+
+.invisible { visibility: hidden; display: none; }
+#phpterminal-manual { font-family: jetbrains_monoregular, monovoid, monospace, monospace !important; font-size: 16px !important; line-height: 1.4 !important; white-space: pre !important; }
+#phpterminal-manual hr { width: 99%; }

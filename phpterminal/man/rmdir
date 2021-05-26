@@ -1,0 +1,14 @@
+NAME
+       rmdir - remove empty directories
+
+SYNOPSIS
+       rmdir [OPTION]... DIRECTORY...
+
+DESCRIPTION
+       Remove the DIRECTORY(ies), if they are empty.
+
+       -r, -R
+              remove directories and their contents recursively
+
+       -v
+              output a diagnostic for every directory processed

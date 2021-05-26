@@ -1,0 +1,22 @@
+NAME
+       zip - package and compress (archive) files
+
+SYNOPSIS
+       zip [OPTION]... ZIPFILE FILE...
+
+OPTIONS
+       -r
+              Travel the directory structure recursively; for example:
+
+                     zip -r foo.zip foo
+
+              In  this case, all the files and directories in foo are saved in a zip archive named foo.zip, including files with names starting with ".", since the recursion does not use
+              the shell's file-name substitution mechanism.  If you wish to include only a specific subset of the files in directory foo and its subdirectories,  use  the  -i  option  to
+              specify the pattern of files to be included.  You should not use -r with the name ".*", since that matches ".."  which will attempt to zip up the parent directory (probably
+              not what was intended).
+
+              Multiple source directories are allowed as in
+
+                     zip -r foo.zip foo1 foo2
+
+              which first zips up foo1 and then foo2, going down each directory.

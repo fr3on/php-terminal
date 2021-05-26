@@ -1,0 +1,17 @@
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... FILE...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically.
+
+       -a
+              do not ignore entries starting with .
+
+       -r
+              reverse order while sorting
+
+       -R
+              list subdirectories recursively

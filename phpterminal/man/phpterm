@@ -1,0 +1,11 @@
+NAME
+       phpterm - print PHPTerminal information
+
+SYNOPSIS
+       phpterm [OPTION]...
+
+DESCRIPTION
+       Print PHPTerminal information.
+
+       -v
+              output version information only

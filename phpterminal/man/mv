@@ -1,0 +1,16 @@
+NAME
+       mv - move files and directories
+
+SYNOPSIS
+       mv [OPTION]... SOURCE DEST
+       mv [OPTION]... SOURCE... DIRECTORY
+       mv [OPTION]... DIRECTORY SOURCE...
+
+DESCRIPTION
+       Move SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+
+       -r, -R
+              copy directories recursively
+
+       -v
+              explain what is being done

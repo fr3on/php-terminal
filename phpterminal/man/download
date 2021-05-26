@@ -1,0 +1,9 @@
+NAME
+       download - downloads file
+
+SYNOPSIS
+       download FILE
+
+DESCRIPTION
+       Download FILE using web browser. If directory is specified, process is aborted.
+
