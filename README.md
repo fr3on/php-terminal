@@ -3,7 +3,7 @@
 PHPTerminal is shell-like tool to solve many tedious tasks you're facing during development and maintenance of your PHP apps.
 Designed for servers without shell accesss and low-memory limits. Edit any text file, make copies and backups, run custom sql queries, change file permissions and much more.
 With just ONE tool.
-![Image of PHPTerminal](http://onether.com/phpterminal/plugins/phpterminal/phpterminal.gif)
+![Image of PHPTerminal](phpterminal/media/images/phpterminal.gif)
 
 # Tools available at your fingerprints
 * phpterm - print PHPTerminal information
