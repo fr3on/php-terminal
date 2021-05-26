@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8" />
-	<title>PHPTerminal Manual</title>
-	<link rel="stylesheet" type="text/css" href="fonts/jetbrainsmono.css" />
-	<style>
-		html, body { font-family: jetbrains_monoregular, monovoid, monospace, monospace !important; font-size: 16px !important; line-height: 1.4 !important; white-space: pre !important; }
-	</style>
-</head>
-<body>
-<pre id="wpterminal-manual"><strong>PHPTerminal Manual</strong>
-
 
               ___  __ _____  ______              _           __
              / _ \/ // / _ \/_  __/__ ______ _  (_)__  ___ _/ /
@@ -541,9 +528,3 @@ Table of Contents
 
    DESCRIPTION
            Returns a string containing the version of the currently running PHP parser.
-
-
-
-</pre>
-</body>
-</html>
